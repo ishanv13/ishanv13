@@ -1,6 +1,6 @@
 ## Hi, I'm Ishan 🕺<br>
 💻 Computer Science graduate from SRM<br>
-🎓 Pursuing master's in business analytics from Warwick Business School<br>
+🎓 Master's in business analytics from Warwick Business School<br>
 📊 I generate good business insights and data analysis<br>
 🤖 I have an increased interest in Machine Learning and AI<br>
 
